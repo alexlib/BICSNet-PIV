@@ -98,3 +98,4 @@ lightning_logs/
 
 # Node (if present for tooling)
 node_modules/
+uv.lock
